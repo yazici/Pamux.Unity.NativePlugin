@@ -30,4 +30,9 @@
 *.exe
 *.out
 *.app
-/.vs/Pamux.Unity.NativePlugin/v15
+.vs
+
+
+Debug
+Release
+*.vcxproj.user
